@@ -1,0 +1,23 @@
+{
+  "name": "simple-youtube-downloader",
+  "version": "1.0.0",
+  "description": "Simple nodejs command line application to download youtube video",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purwnt/simple-youtube-downloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purwnt/simple-youtube-downloader/issues"
+  },
+  "homepage": "https://github.com/purwnt/simple-youtube-downloader#readme",
+  "dependencies": {
+    "ytdl-core": "^1.0.3"
+  }
+}
